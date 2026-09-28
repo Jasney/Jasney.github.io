@@ -1,0 +1,4 @@
+# Source and test assets that the published site does not load.
+images/robot-cutout.png
+images/robot-reference.jpg
+preview-*.png
